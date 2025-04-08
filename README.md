@@ -1,1 +1,1 @@
-# project.isba
+# sql-project
